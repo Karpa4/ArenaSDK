@@ -1,0 +1,14 @@
+{
+  "name": "com.unityexample.arenagames",
+  "version": "1.0.0",
+  "displayName": "ArenaGamesSDK",
+  "description": "This is an example package",
+  "unity": "2021.3",
+  "unityRelease": "20f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
